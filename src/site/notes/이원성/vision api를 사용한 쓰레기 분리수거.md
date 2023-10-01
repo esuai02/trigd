@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//vision-api/"}
+{"dg-publish":true,"permalink":"//vision-api/","noteIcon":"","created":"2023-10-01T13:26:29.011+09:00","updated":"2023-10-01T15:49:20.821+09:00"}
 ---
 
 ....
