@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"//vision-api/"}
 ---
 
-
+....
 
 현재 진행 상황:
 - 현재는 vision API를 사용하여 쓰레기 분리수거를 자동화하는 프로젝트를 진행 중입니다.
