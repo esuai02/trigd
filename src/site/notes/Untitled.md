@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/untitled/","noteIcon":"","created":"2023-10-01T13:26:36.015+09:00","updated":"2023-10-01T18:46:53.000+09:00"}
+{"dg-publish":true,"permalink":"/untitled/","noteIcon":"","created":"2023-10-01T13:26:36.015+09:00","updated":"2023-10-01T18:47:00.090+09:00"}
 ---
 
 ## 오늘 한 것:
